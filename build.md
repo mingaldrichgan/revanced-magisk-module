@@ -1,3 +1,4 @@
+Reddit: 2025.01.0  
 YouTube: 19.44.39  
 YouTube-Music: 7.16.53  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store  

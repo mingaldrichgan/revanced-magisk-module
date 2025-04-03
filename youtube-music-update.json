@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches: 5.6.1)",
-  "versionCode": 2025033011,
-  "zipUrl": "https://github.com/mingaldrichgan/revanced-magisk-module/releases/download/2025033011/youtube-music-revanced-magisk-v8.05.51-arm64-v8a.zip",
+  "version": "v8.05.51 (patches: 5.6.2)",
+  "versionCode": 2025040302,
+  "zipUrl": "https://github.com/mingaldrichgan/revanced-magisk-module/releases/download/2025040302/youtube-music-revanced-magisk-v8.05.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/mingaldrichgan/revanced-magisk-module/update/build.md"
 }
